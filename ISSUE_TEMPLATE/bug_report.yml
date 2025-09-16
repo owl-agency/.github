@@ -1,0 +1,23 @@
+name: Bug report
+description: Signaler un bug dans l'application
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire
+      placeholder: "1. ..."
+  - type: textarea
+    id: expected
+    attributes:
+      label: Résultat attendu
+  - type: textarea
+    id: actual
+    attributes:
+      label: Résultat obtenu
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs/erreurs
+      render: shell
