@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/owl-agency/.github/main/Logo%20Owl.png" alt="Owl Agency Logo" width="400"/>
-</p>
-
-<h3 align="center">Plus rapides que des freelances, plus forts comme une agence 🚀🦉</h3>
-
----
-
 # Owl Agency – Repo .github
 
 Ce dépôt contient les **fichiers communautaires et standards** utilisés dans tous les dépôts `owl-agency`.
